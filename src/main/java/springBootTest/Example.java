@@ -11,7 +11,7 @@ public class Example {
 	
 	@RequestMapping("/")
 	String home(){		
-		return "hello";
+		return "This is a test for Snap CI";
 	}
 	
 	public static void main(String[] args) {
